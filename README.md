@@ -22,4 +22,7 @@ a script that pauses the current media playing after a certain amount of time
 
 ![image](https://github.com/8pz/qol-scripts/assets/70970973/9231785b-c5c9-420d-8e86-5dbe990b05d1)
 
+## [media auto pause](https://github.com/8pz/qol-scripts/blob/main/scripts/pw.py)
+random 18 char password generator 
+
 

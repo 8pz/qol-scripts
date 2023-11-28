@@ -2,7 +2,6 @@ from pynput.keyboard import Controller, Key
 from datetime import datetime
 import time, os, sys
 
-
 os.system("cls" if os.name == "nt" else "clear")
 
 def pause_current_audio(delay):
